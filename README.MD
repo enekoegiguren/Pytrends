@@ -23,8 +23,67 @@ Se acaba el año 2022 y con él muchos temas que han dado que hablar. La herrami
 
 ## **Resultados obtenidos**:
 
-###  DEPORTE:
+##  DEPORTE:
 
 ![alt text](https://github.com/enekoegiguren/Pytrends/blob/main/images/deporte.png)
 
-### 
+## POLITICA
+
+![alt text](https://github.com/enekoegiguren/Pytrends/blob/main/images/politica.png)
+
+## ECONOMIA
+
+![alt text](https://github.com/enekoegiguren/Pytrends/blob/main/images/economia.png)
+
+## SOCIAL
+
+![alt text](https://github.com/enekoegiguren/Pytrends/blob/main/images/social.png)
+
+## BIG DATA
+
+<a href="https://www.python.org/" target="_blank"><img style="margin: 10px" src="https://profilinator.rishav.dev/skills-assets/python-original.svg" alt="Python" height="50" /></a>  <a href="https://www.mysql.com/" target="_blank"><img style="margin: 10px" src="https://profilinator.rishav.dev/skills-assets/mysql-original-wordmark.svg" alt="MySQL" height="50" /></a>  <a href="https://www.r-project.org/" target="_blank"><img style="margin: 10px" src="https://profilinator.rishav.dev/skills-assets/r.svg" alt="R" height="50" /></a>  <a href="https://www.tableau.com/" target="_blank"><img style="margin: 10px" src="https://profilinator.rishav.dev/skills-assets/tableau.svg" alt="Tableau" height="50" /></a>  <a href="https://powerbi.microsoft.com/en-us/" target="_blank"><img style="margin: 10px" src="https://profilinator.rishav.dev/skills-assets/powerbi.png" alt="Power Bi" height="50" /></a>  
+
+![alt text](https://github.com/enekoegiguren/Pytrends/blob/main/images/bigdata.png)
+
+# 🔎 CONCLUSIÓN:
+
+**Tras estudiar varios keywords de diferentes temáticas como la economía, política.. observar en el último análisis la evolución de las búsquedas de diferentes términos de Data Science da que pensar.**
+
+
+--- 
+
+### <div align="center">📲 Cóntactame a través de:
+</a>  
+<div align="center">
+<a href="https://linkedin.com/in/enekoegiguren" target="_blank">
+<img src=https://img.shields.io/badge/linkedin-%231E77B5.svg?&style=for-the-badge&logo=linkedin&logoColor=white alt=linkedin style="margin-bottom: 5px;" />
+</a>  
+</div>
+<div align="center">
+<a href="https://github.com/enekoegiguren" target="_blank">
+<img src=https://img.shields.io/badge/github-%2324292e.svg?&style=for-the-badge&logo=github&logoColor=white alt=github style="margin-bottom: 5px;" />
+</a>
+
+
+<br/>  
+
+
+### Recent Blog Posts  
+<!-- BLOG-POST-LIST:START -->  
+
+<!-- BLOG-POST-LIST:END -->  
+
+<br/>  
+
+<br/>  
+
+![Profile views counter](https://komarev.com/ghpvc/?username=enekoegiguren&&style=flat-square)  
+  
+
+<br/>  
+
+
+<br />
+
+----
+<div align="center">Eneko Egiguren
