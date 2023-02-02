@@ -2,7 +2,7 @@
 [![](https://img.shields.io/badge/Python-FFD43B?style=for-the-badge&logo=python&logoColor=darkgreen)](https://www.python.org) [![](https://img.shields.io/badge/Pandas-2C2D72?style=for-the-badge&logo=pandas&logoColor=white)](https://pandas.pydata.org) [![](https://img.shields.io/badge/Plotly-239120?style=for-the-badge&logo=plotly&logoColor=white)](https://plotly.com) [![](https://img.shields.io/badge/Google-4285F4?logo=google&logoColor=fff&style=for-the-badge)](https://trends.google.es/trends/?geo=ES) 
 
 
-<div align="center"><img src="https://github.com/enekoegiguren/Pytrends/blob/main/images/googletrends.png" alt="googletrends" height="500">
+<div align="center"><img src="https://github.com/enekoegiguren/Pytrends/blob/main/images/googletrends.png" alt="googletrends" height="400">
 
 <div align="left">
   
@@ -12,7 +12,7 @@ Se acaba el año 2022 y con él muchos temas que han dado que hablar. La herrami
 
 - La API [pytrends](https://pypi.org/project/pytrends/) es una simple herramienta para automatizar la descarga de los informes.
   
-<div align="center"><img src="https://github.com/enekoegiguren/Pytrends/blob/main/images/googletrends2.png" alt="googletrends2" height="500">
+<div align="center"><img src="https://github.com/enekoegiguren/Pytrends/blob/main/images/googletrends2.png" alt="googletrends2" height="400">
 
 <div align="left">
   
@@ -20,4 +20,4 @@ Se acaba el año 2022 y con él muchos temas que han dado que hablar. La herrami
   
   ### - DEPORTE:
 
-<div align="left"><img src="https://github.com/enekoegiguren/Pytrends/blob/main/images/deporte.png" alt="googletrends" height="200">
+<div align="left"><img src="https://github.com/enekoegiguren/Pytrends/blob/main/images/deporte.png" alt="googletrends" height="150">
