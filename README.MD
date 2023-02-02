@@ -11,7 +11,7 @@ Se acaba el año 2022 y con él muchos temas que han dado que hablar. La herrami
 
 - La API [pytrends](https://pypi.org/project/pytrends/) es una simple herramienta para automatizar la descarga de los informes.
   
-<div align="center"><img src="https://github.com/enekoegiguren/Pytrends/blob/main/images/googletrends2.png" alt="googletrends2" height="400">
+![alt text](https://github.com/enekoegiguren/Pytrends/blob/main/images/googletrends2.png)
 
 <div align="left">
   
@@ -19,4 +19,4 @@ Se acaba el año 2022 y con él muchos temas que han dado que hablar. La herrami
   
   ### - DEPORTE:
 
-<div align="left"><img src="https://github.com/enekoegiguren/Pytrends/blob/main/images/deporte.png" alt="googletrends" height="150">
+![alt text](https://github.com/enekoegiguren/Pytrends/blob/main/images/deporte.png)
