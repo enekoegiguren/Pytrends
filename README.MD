@@ -6,6 +6,14 @@
 
 <div align="left">
   
-## Introduction
+## **pytrends**:
+  
+Se acaba el año 2022 y con él muchos temas que han dado que hablar. La herramienta [Google Trends](https://trends.google.es/trends/?geo=ES) nos permite hacer varios análisis de las búsquedas realizadas en los motores de búsqueda de Google. 
+
+- La API [pytrends](https://pypi.org/project/pytrends/) es una simple herramienta para automatizar la descarga de los informes.
   
 <div align="center"><img src="https://github.com/enekoegiguren/Pytrends/blob/main/images/googletrends2.png" alt="googletrends2" height="500">
+
+<div align="left">
+  
+## **Resultados obtenidos**:
