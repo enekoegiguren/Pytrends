@@ -17,3 +17,7 @@ Se acaba el año 2022 y con él muchos temas que han dado que hablar. La herrami
 <div align="left">
   
 ## **Resultados obtenidos**:
+  
+  ### - DEPORTE:
+
+<div align="left"><img src="https://github.com/enekoegiguren/Pytrends/blob/main/images/deporte.png" alt="googletrends" height="200">
